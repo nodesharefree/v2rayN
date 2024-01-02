@@ -1,4 +1,20 @@
+#  高速机场推荐1
 
+[【快猫】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+
+季付送小火箭，流量多，优惠多
+
+而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+注册地址：[【快猫官网（点击注册）】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+
+#  高速机场推荐2
+
+[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+FCCloud全球节点，解锁流媒体GPT，平民价格
+
+注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
 # v2rayN
 A GUI client for Windows, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
 
